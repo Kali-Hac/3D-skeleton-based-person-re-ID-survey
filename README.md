@@ -45,10 +45,17 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 | PoseTrackReID-2D  |   2020   | _Estimated from RGB videos_ |   5350   |          53.6K |      —     |
 
 
+### **2023**
+- [TranSG: Transformer-based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-identification](http://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf) (CVPR 2023) [[Github](https://github.com/Kali-Hac/TranSG)] ![](https://img.shields.io/github/stars/Kali-Hac/TranSG.svg?style=social)
+
+- [Hierarchical Skeleton Meta-prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-identification](https://arxiv.org/pdf/2307.12917)  (International Journal of Computer Vision 2023) [[Github](https://github.com/Kali-Hac/Hi-MPC)] ![](https://img.shields.io/github/stars/Kali-Hac/Hi-MPC.svg?style=social)
+
 ### **2022**
 - [SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (IJCAI 2022) [[Github](https://github.com/Kali-Hac/SimMC)] ![](https://img.shields.io/github/stars/Kali-Hac/SimMC.svg?style=social)
 
-- [Re-visiting k-Reciprocal Distance Re-ranking for Skeleton-Based Person re-identification]() ()
+- [Re-visiting k-Reciprocal Distance Re-ranking for Skeleton-Based Person Re-identification](https://ieeexplore.ieee.org/document/9913633) (IEEE Signal Processing Letters 2022)
+
+- [Skeleton Prototype Contrastive Learning with Multi-level Graph Relation Modeling for Unsupervised Person Re-identification](https://arxiv.org/pdf/2208.11814) (Arxiv (Preprint) 2022) [[Github](https://github.com/Kali-Hac/SPC-MGR)] ![](https://img.shields.io/github/stars/Kali-Hac/SPC-MGR.svg?style=social)
 
 - [Human Identification System Using 3D Skeleton-Based Gait Features and LSTM Model](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002807) (Journal of Visual Communication and Image Representation 2022)
 
