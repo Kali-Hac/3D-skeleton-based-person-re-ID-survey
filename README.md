@@ -10,7 +10,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 <!-- vscode-markdown-toc -->
 - [Skeleton-Based Person Re-Identification](#skeleton-based-person-re-identification)
-  - [**6** Datasets](#6-datasets)
+  - [Benchmark Datasets](#datasets)
   - [**2022**](#2022)
   - [**2021**](#2021)
   - [**2020**](#2020)
@@ -27,20 +27,24 @@ We will continue to update this list with the newest resources. If you find any 
 
 
 ##  Skeleton-Based Person Re-Identification
-### **6** Datasets
+### Datasets
 Overview of **6** available datasets for **skeleton-based person re-identification** and their statistics, mainly from the paper of (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2009.03671)] (A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification). 
-```
-Bold shows the most-frequently used datasets in the literature. CASIA-B and OUMVLP-Pose estimate 3D skeletons and 2D skeletons, respectively, from RGB images.
-```
-| **# Datasets**           | **Year** | **# ID** | **# Skeleton** |     **# View** | **# Clothes/Scenes**           |
-|--------------------------|:--------:|---------:|---------------:|---------------:|--------------------------------|
-| **IAS-Lab RGBD-ID**      | **2013** |   **11** |      **89.0K** | **Egocentric** | **Varying Clothes and Scenes** |
-| **BIWI RGBD-ID**         | **2013** |   **50** |     **205.8K** | **Egocentric** | **Varying Clothes and Scenes** |
-| **KGBD**                 | **2014** |  **164** |     **188.7K** | **Egocentric** | **——**                         |
-| **KS20**                 | **2017** |   **20** |      **36.0K** |          **5** | **——**                         |
-| **# Estimated Datasets** |          |          |                |                |                                |
-| **CAISA-B (3D)**         | **2005** |  **124** |     **706.5K** |         **11** | **Varying Clothes**            |
-| OUMVLP-Pose (2D)         |   2020   |   10,307 |         6,667K |             14 | ——                             |
+
+| **# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
+|-------------------|:--------:|-----------------------------|:--------:|---------------:|:----------:|
+| PAVIS RGBD-ID     |   2012   | Kinect V1                   |    79    |              — | Egocentric |
+| BIWI RGBD-ID      |   2013   | Kinect V1                   |    50    |         205.8K | Egocentric |
+| IAS-Lab RGBD-ID   |   2013   | Kinect V1                   |    11    |          89.0K | Egocentric |
+| KGBD              |   2014   | Kinect V1                   |    164   |         188.7K | Egocentric |
+| KinectREID        |   2015   | Kinect V1                   |    71    |           4.8K |      7     |
+| UPCV1             |   2015   | Kinect V1                   |    30    |          13.1K | Egocentric |
+| UPCV2             |   2016   | Kinect V2                   |    30    |          26.3K | Egocentric |
+| Florence 3D Re-ID |   2016   | Kinect V2                   |    16    |          18.0K | Egocentric |
+| KS20              |   2017   | Kinect V2                   |    20    |          36.0K |      5     |
+| Freestyle Walks   |   2017   | Kinect V2                   |    90    |              — | Egocentric |
+| CAISA-B-3D        |   2020   | _Estimated from RGB videos_ |    124   |         706.5K |     11     |
+| OUMVLP-Pose-2D    |   2020   | _Estimated from RGB videos_ |   10307  |        6667.0K |     14     |
+| PoseTrackReID-2D  |   2020   | _Estimated from RGB videos_ |   5350   |          53.6K |      —     |
 
 
 ### **2022**
