@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-A professionally curated list of awesome resources (paper, code, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**, which is first work to comprehensively and systematically summarize the recent advances of SRID research to the best of our knowledge.
+A professionally curated list of awesome resources (paper, code, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**, which is the first work to comprehensively and systematically summarize the recent advances of SRID research to the best of our knowledge.
 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
@@ -63,15 +63,35 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 ### **2019**
 - [SKEPRID: Pose and Illumination Change-Resistant Skeleton-Based Person Re-Identification](https://doi.org/10.1145/3243217) (ACM Trans. Multim. Comput. Commun. Appl. 2019)
 
-- [Enhanced skeleton and face 3D data for person re-identification from depth cameras](https://doi.org/10.24963/ijcai.2020/125) (Comput. Graph. 2019)
+- [Enhanced skeleton and face 3D data for person re-identification from depth cameras](https://doi.org/10.24963/ijcai.2020/125) (Computers\&Graphics 2019)
 
-### Before 2019
+### **2018**
+- [Cross-context analysis for long-term view-point invariant person re-identification via soft-biometrics using depth sensor](https://www.scitepress.org/papers/2018/66206/66206.pdf) (VISIGRAPP 2018)
+
+### **2017**
+- [Human identification from freestyle walks using posture-based gait feature](https://ieeexplore.ieee.org/abstract/document/8007293) (IEEE Transactions on Information Forensics and Security 2017)
+
+- [Context-aware person re-identification in the wild via fusion of gait and anthropometric features](https://vislab.isr.tecnico.ulisboa.pt/wp-content/uploads/2017/05/anambiar_BWild2017.pdf) (International Conference on Automatic Face \& Gesture Recognition 2017)
+
+### **2016**
+- [Long term person re-identification from depth cameras using facial and skeleton data](https://www.researchgate.net/profile/Stefano-Berretti/publication/325161671_Long_Term_Person_Re-identification_from_Depth_Cameras_Using_Facial_and_Skeleton_Data/links/5b84ffc892851c1e1236dd11/Long-Term-Person-Re-identification-from-Depth-Cameras-Using-Facial-and-Skeleton-Data.pdf) (ICPR 2016)
+
+### **2015**
 - [Person Identification Using Anthropometric and Gait Data from Kinect Sensor](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9680) (AAAI 2015)
 
+- [People re-identification using 3D descriptor with skeleton information](https://ieeexplore.ieee.org/abstract/document/7333986) (International Conference on Informatics, Electronics \& Vision 2015)
+
+- [Multimodal person reidentification using RGB-D cameras](https://ieeexplore.ieee.org/abstract/document/7088601) (IEEE Transactions on Circuits and Systems for Video Technology 2015)
+
+### **2014**
 - [3D reconstruction of freely moving persons for re-identification with a depth sensor](https://doi.org/10.24963/ijcai.2020/125) (ICRA 2014)
+
+- [A feature-based approach to people re-identification using skeleton keypoints](https://www.researchgate.net/profile/Matteo-Munaro/publication/286624461_A_feature-based_approach_To_people_re-identification_using_skeleton_keypoints/links/566ea2f008ae1a797e406d8a/A-feature-based-approach-To-people-re-identification-using-skeleton-keypoints.pdf) (ICRA 2014)
 
 - [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (Person Re-Identification 2014)
 
+
+### Before 2014
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (ECCV Workshop 2012)
 
 ###  Leaderboards
