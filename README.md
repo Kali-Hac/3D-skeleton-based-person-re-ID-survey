@@ -9,7 +9,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#datasets)
-- [**Studies by Different Years**]
+- **Studies by Different Years**
 	- [**2022**](#2022)
 	- [**2021**](#2021)
 	- [**2020**](#2020)
