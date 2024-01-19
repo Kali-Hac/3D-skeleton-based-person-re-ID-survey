@@ -48,6 +48,10 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 ### **2022**
 - [SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification](https://doi.org/10.48550/arXiv.2204.09826) (IJCAI 2022) [[Github](https://github.com/Kali-Hac/SimMC)] ![](https://img.shields.io/github/stars/Kali-Hac/SimMC.svg?style=social)
 
+- [Re-visiting k-Reciprocal Distance Re-ranking for Skeleton-Based Person re-identification]() ()
+
+- [Human Identification System Using 3D Skeleton-Based Gait Features and LSTM Model](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002807) (Journal of Visual Communication and Image Representation 2022)
+
 ### **2021**
  - [SM-SGE: A Self-Supervised Multi-Scale Skeleton Graph Encoding Framework for Person Re-Identification](https://doi.org/10.1145/3474085.3475330) (ACMMM 2021) [[Github](https://github.com/Kali-Hac/SM-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/SM-SGE.svg?style=social)
 
