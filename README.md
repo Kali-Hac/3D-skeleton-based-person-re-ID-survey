@@ -6,7 +6,7 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
-# Skeleton-Based Person Re-Identification (2012-2022) <!-- omit in toc --> 
+# 3D Skeleton Based Person Re-Identification <!-- omit in toc --> 
 
 <!-- vscode-markdown-toc -->
 - [Skeleton-Based Person Re-Identification](#skeleton-based-person-re-identification)
@@ -28,7 +28,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 ##  Skeleton-Based Person Re-Identification
 ### Datasets
-Overview of commonly-used benchmark datasets for **skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
+Overview of commonly-used benchmark datasets for **3D skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
 | **# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
 |-------------------|:--------:|-----------------------------|:--------:|---------------:|:----------:|
