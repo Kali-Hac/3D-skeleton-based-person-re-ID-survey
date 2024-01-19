@@ -9,7 +9,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#datasets)
-- [**Studies by Different Years**](#studies_by_different_years)
+- **Studies by Different Years**
 	- [**2022**](#2022)
 	- [**2021**](#2021)
 	- [**2020**](#2020)
@@ -125,10 +125,12 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 ### Before 2014
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (_ECCV Workshop 2012_)
 
+## Studies by Different Categories
+
+### 
 
 
-
-###  Leaderboards
+##  Leaderboards
 The results are mainly from the paper of (**IJCAI 2022**) [[paper](https://doi.org/10.48550/arXiv.2204.09826)] (SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification). 
 |                    |     KS20 |          |          |          |     KGBD |          |          |          |    IAS-A |          |          |          |
 |--------------------|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
