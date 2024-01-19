@@ -61,7 +61,7 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 - [Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification](https://doi.org/10.24963/ijcai.2020/125) (IJCAI 2020) [[Github](https://github.com/Kali-Hac/SGE-LA)] ![](https://img.shields.io/github/stars/Kali-Hac/SGE-LA.svg?style=social)
 
 ### **2019**
-- [SKEPRID: Pose and Illumination Change-Resistant Skeleton-Based Person Re-Identification](https://doi.org/10.1145/3243217) (ACM Trans. Multim. Comput. Commun. Appl. 2019)
+- [SKEPRID: Pose and Illumination Change-Resistant Skeleton-Based Person Re-Identification](https://doi.org/10.1145/3243217) (ACM Transactions on Multimedia Computing, Communications, and Applications 2019)
 
 - [Enhanced skeleton and face 3D data for person re-identification from depth cameras](https://doi.org/10.24963/ijcai.2020/125) (Computers\&Graphics 2019)
 
