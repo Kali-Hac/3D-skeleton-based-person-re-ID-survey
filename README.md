@@ -66,6 +66,8 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 
 - [A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification](https://arxiv.org/abs/2009.03671) (_IEEE Transactions on Pattern Analysis and Machine Intelligence 2021_) [[Github](https://github.com/Kali-Hac/Locality-Awareness-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/Locality-Awareness-SGE.svg?style=social)
 
+- [Person Re-Identification from Different Views based on Dynamic Linear Combination of Distances](https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/57071/https:/halshs.archives-ouvertes.fr/halshs-03145152/document?sequence=1) (_Multimedia Tools and Applications 2021_) [[Github](https://github.com/Elaoud/re-id)] ![](https://img.shields.io/github/stars/Elaoud/re-id.svg?style=social)
+
 ### **2020**
 - [Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification](https://doi.org/10.24963/ijcai.2020/125) (_IJCAI 2020_) [[Github](https://github.com/Kali-Hac/SGE-LA)] ![](https://img.shields.io/github/stars/Kali-Hac/SGE-LA.svg?style=social)
 
