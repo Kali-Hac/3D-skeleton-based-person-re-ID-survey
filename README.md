@@ -14,7 +14,12 @@ We will continue to update this list with the newest resources. If you find any 
   - [**2021**](#2021)
   - [**2020**](#2020)
   - [**2019**](#2019)
-  - [Before 2019](#before-2019)
+  - [**2018**](#2018)
+  - [**2017**](#2017)
+  - [**2016**](#2016)
+  - [**2015**](#2015)
+  - [**2014**](#2014)
+  - [Before 2014](#before-2014)
   - [Leaderboards](#leaderboards)
 
 <!-- vscode-markdown-toc-config
