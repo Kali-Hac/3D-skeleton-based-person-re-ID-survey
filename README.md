@@ -8,19 +8,18 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 <!-- vscode-markdown-toc -->
-- [Skeleton-Based Person Re-Identification](#skeleton-based-person-re-identification)
-  - [Benchmark Datasets](#datasets)
-  - [**2022**](#2022)
-  - [**2021**](#2021)
-  - [**2020**](#2020)
-  - [**2019**](#2019)
-  - [**2018**](#2018)
-  - [**2017**](#2017)
-  - [**2016**](#2016)
-  - [**2015**](#2015)
-  - [**2014**](#2014)
-  - [Before 2014](#before-2014)
-  - [Leaderboards](#leaderboards)
+- [Benchmark Datasets](#datasets)
+- [**2022**](#2022)
+- [**2021**](#2021)
+- [**2020**](#2020)
+- [**2019**](#2019)
+- [**2018**](#2018)
+- [**2017**](#2017)
+- [**2016**](#2016)
+- [**2015**](#2015)
+- [**2014**](#2014)
+- [Before 2014](#before-2014)
+- [Leaderboards](#leaderboards)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -29,8 +28,6 @@ We will continue to update this list with the newest resources. If you find any 
 <!-- /vscode-markdown-toc -->
 
 
-
-##  Skeleton-Based Person Re-Identification
 ### Datasets
 Overview of commonly-used benchmark datasets for **3D skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
