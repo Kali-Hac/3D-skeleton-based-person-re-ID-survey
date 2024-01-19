@@ -8,18 +8,19 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 <!-- vscode-markdown-toc -->
-- [Benchmark Datasets](#datasets)
-- [**2022**](#2022)
-- [**2021**](#2021)
-- [**2020**](#2020)
-- [**2019**](#2019)
-- [**2018**](#2018)
-- [**2017**](#2017)
-- [**2016**](#2016)
-- [**2015**](#2015)
-- [**2014**](#2014)
-- [Before 2014](#before-2014)
-- [Leaderboards](#leaderboards)
+- [**Benchmark Datasets**](#datasets)
+- [**Studies by Different Years**]
+	- [**2022**](#2022)
+	- [**2021**](#2021)
+	- [**2020**](#2020)
+	- [**2019**](#2019)
+	- [**2018**](#2018)
+	- [**2017**](#2017)
+	- [**2016**](#2016)
+	- [**2015**](#2015)
+	- [**2014**](#2014)
+	- [**Before 2014**](#before-2014)
+- [**Leaderboards**](#leaderboards)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
