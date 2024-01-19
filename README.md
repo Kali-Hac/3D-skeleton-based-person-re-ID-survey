@@ -9,7 +9,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#datasets)
-- **Studies by Different Years**
+- **Studies by Different Years**(#Studies_by_Different_Years)
 	- [**2022**](#2022)
 	- [**2021**](#2021)
 	- [**2020**](#2020)
@@ -33,7 +33,7 @@ We will continue to update this list with the newest resources. If you find any 
 <!-- /vscode-markdown-toc -->
 
 
-## Datasets
+## Benchmark Datasets
 Overview of commonly-used benchmark datasets for **3D skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
 |**# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
@@ -52,7 +52,7 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 | OUMVLP-Pose-2D    |   2020   | _Estimated from RGB videos_ |   10307  |        6667.0K |     14     |
 | PoseTrackReID-2D  |   2020   | _Estimated from RGB videos_ |   5350   |          53.6K |      —     |
 
-
+## Studies by Different Years
 ### **2023**
 - [TranSG: Transformer-based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-identification](http://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf) (_CVPR 2023_) [[Github](https://github.com/Kali-Hac/TranSG)] ![](https://img.shields.io/github/stars/Kali-Hac/TranSG.svg?style=social)
 
