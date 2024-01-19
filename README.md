@@ -69,17 +69,21 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 ### **2020**
 - [Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification](https://doi.org/10.24963/ijcai.2020/125) (_IJCAI 2020_) [[Github](https://github.com/Kali-Hac/SGE-LA)] ![](https://img.shields.io/github/stars/Kali-Hac/SGE-LA.svg?style=social)
 
+<!--
 - [Human skeleton mutual learning for person re-identification](https://doi.org/10.1016/j.neucom.2019.12.120) (_Neurocomputing 2020_)
+-->
 
-- [Learning 3d spatiotemporal gait feature by convolutional network for person identification](https://www.sciencedirect.com/science/article/abs/pii/S0925231220302381) (_Neurocomputing 2020_)
+- [Learning 3D spatiotemporal gait feature by convolutional network for person identification](https://www.sciencedirect.com/science/article/abs/pii/S0925231220302381) (_Neurocomputing 2020_)
 
-- [A model-based gait recognition method with body pose and human prior knowledge](http://r.web.umkc.edu/rlyfv/papers/poseGait.pdf) (_Pattern Recognition 2020_) (PoseGait is extended for SRID in recent studies from 2021-2023)
+- [A model-based gait recognition method with body pose and human prior knowledge](http://r.web.umkc.edu/rlyfv/papers/poseGait.pdf) (_Pattern Recognition 2020_) [[Github](https://github.com/RijunLiao/PoseGait)] ![](https://img.shields.io/github/stars/RijunLiao/PoseGait.svg?style=social) (PoseGait is extended for SRID in recent studies from 2021-2023)
 
 - [Person identification by walking gesture using skeleton sequences](https://link.springer.com/chapter/10.1007/978-3-030-40605-9_18) (_Advanced Concepts for Intelligent Vision Systems 2020_)
 
 
 ### **2019**
-- [SKEPRID: Pose and Illumination Change-Resistant Skeleton-Based Person Re-Identification](https://doi.org/10.1145/3243217) (_ACM Transactions on Multimedia Computing, Communications, and Applications 2019_)
+<!-- 
+- [SKEPRID: Pose and Illumination Change-Resistant Skeleton-Based Person Re-Identification](https://dl.acm.org/doi/pdf/10.1145/3243217) (_ACM Transactions on Multimedia Computing, Communications, and Applications 2019_)
+-->
 
 - [Enhanced skeleton and face 3D data for person re-identification from depth cameras](https://doi.org/10.24963/ijcai.2020/125) (_Computers\&Graphics 2019_)
 
@@ -107,7 +111,6 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 - [A feature-based approach to people re-identification using skeleton keypoints](https://www.researchgate.net/profile/Matteo-Munaro/publication/286624461_A_feature-based_approach_To_people_re-identification_using_skeleton_keypoints/links/566ea2f008ae1a797e406d8a/A-feature-based-approach-To-people-re-identification-using-skeleton-keypoints.pdf) (_ICRA 2014_)
 
 - [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
-
 
 ### Before 2014
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (_ECCV Workshop 2012_)
