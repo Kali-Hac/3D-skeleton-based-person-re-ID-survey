@@ -28,7 +28,7 @@ We will continue to update this list with the newest resources. If you find any 
 ### Datasets
 Overview of commonly-used benchmark datasets for **3D skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
-| **# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
+|**# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
 |-------------------|:--------:|-----------------------------|:--------:|---------------:|:----------:|
 | PAVIS RGBD-ID     |   2012   | Kinect V1                   |    79    |              — |     Ego    |
 | BIWI RGBD-ID      |   2013   | Kinect V1                   |    50    |         205.8K |     Ego    |
