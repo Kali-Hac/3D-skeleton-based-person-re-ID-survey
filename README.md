@@ -67,9 +67,16 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 - [A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification](https://arxiv.org/abs/2009.03671) (_IEEE Transactions on Pattern Analysis and Machine Intelligence 2021_) [[Github](https://github.com/Kali-Hac/Locality-Awareness-SGE)] ![](https://img.shields.io/github/stars/Kali-Hac/Locality-Awareness-SGE.svg?style=social)
 
 ### **2020**
+- [Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification](https://doi.org/10.24963/ijcai.2020/125) (_IJCAI 2020_) [[Github](https://github.com/Kali-Hac/SGE-LA)] ![](https://img.shields.io/github/stars/Kali-Hac/SGE-LA.svg?style=social)
+
 - [Human skeleton mutual learning for person re-identification](https://doi.org/10.1016/j.neucom.2019.12.120) (_Neurocomputing 2020_)
 
-- [Self-Supervised Gait Encoding with Locality-Aware Attention for Person Re-Identification](https://doi.org/10.24963/ijcai.2020/125) (_IJCAI 2020_) [[Github](https://github.com/Kali-Hac/SGE-LA)] ![](https://img.shields.io/github/stars/Kali-Hac/SGE-LA.svg?style=social)
+- [Learning 3d spatiotemporal gait feature by convolutional network for person identification](https://www.sciencedirect.com/science/article/abs/pii/S0925231220302381) (_Neurocomputing 2020_)
+
+- [A model-based gait recognition method with body pose and human prior knowledge](http://r.web.umkc.edu/rlyfv/papers/poseGait.pdf) (_Pattern Recognition 2020_) (PoseGait is extended for SRID in recent studies from 2021-2023)
+
+- [Person identification by walking gesture using skeleton sequences](https://link.springer.com/chapter/10.1007/978-3-030-40605-9_18) (_Advanced Concepts for Intelligent Vision Systems 2020_)
+
 
 ### **2019**
 - [SKEPRID: Pose and Illumination Change-Resistant Skeleton-Based Person Re-Identification](https://doi.org/10.1145/3243217) (_ACM Transactions on Multimedia Computing, Communications, and Applications 2019_)
