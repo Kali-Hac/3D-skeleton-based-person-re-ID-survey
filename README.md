@@ -8,8 +8,8 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 <!-- vscode-markdown-toc -->
-- [**Benchmark Datasets**](#benchmark)
-- **Studies by Different Years**
+- [**Benchmark Datasets**](#benchmark-datasets)
+- [**Studies by Different Years](#Studies-by-Different-Years)**
 	- [**2022**](#2022)
 	- [**2021**](#2021)
 	- [**2020**](#2020)
