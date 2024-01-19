@@ -20,6 +20,10 @@ We will continue to update this list with the newest resources. If you find any 
 	- [**2015**](#2015)
 	- [**2014**](#2014)
 	- [**Before 2014**](#before-2014)
+- **Studies by Different Categories**
+	- [**Hand-Crafted Methods**](#2022)
+	- [**Sequence Learning Methods**](#2021)
+	- [**Graph Learning Methods**](#2020)
 - [**Leaderboards**](#leaderboards)
 
 <!-- vscode-markdown-toc-config
@@ -29,7 +33,7 @@ We will continue to update this list with the newest resources. If you find any 
 <!-- /vscode-markdown-toc -->
 
 
-### Datasets
+## Datasets
 Overview of commonly-used benchmark datasets for **3D skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
 |**# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
@@ -120,6 +124,9 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 
 ### Before 2014
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (_ECCV Workshop 2012_)
+
+
+
 
 ###  Leaderboards
 The results are mainly from the paper of (**IJCAI 2022**) [[paper](https://doi.org/10.48550/arXiv.2204.09826)] (SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification). 
