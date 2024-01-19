@@ -1,12 +1,10 @@
-# 3D-skeleton-based-person-re-ID-review
+# 3D Skeleton Based Person Re-Identification (SRID)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
 A professionally curated list of awesome resources (paper, code, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**, which is first work to comprehensively and systematically summarize the recent advances of SRID research to the best of our knowledge.
 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
-
-# 3D Skeleton Based Person Re-Identification <!-- omit in toc --> 
 
 <!-- vscode-markdown-toc -->
 - [Skeleton-Based Person Re-Identification](#skeleton-based-person-re-identification)
