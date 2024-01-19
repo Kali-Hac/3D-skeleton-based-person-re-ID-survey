@@ -28,20 +28,20 @@ We will continue to update this list with the newest resources. If you find any 
 
 ##  Skeleton-Based Person Re-Identification
 ### Datasets
-Overview of **6** available datasets for **skeleton-based person re-identification** and their statistics, mainly from the paper of (**TPAMI 2021**) [[paper](https://arxiv.org/abs/2009.03671)] (A Self-Supervised Gait Encoding Approach with Locality-Awareness for 3D Skeleton Based Person Re-Identification). 
+Overview of commonly-used benchmark datasets for **skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
 | **# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
 |-------------------|:--------:|-----------------------------|:--------:|---------------:|:----------:|
-| PAVIS RGBD-ID     |   2012   | Kinect V1                   |    79    |              — | Egocentric |
-| BIWI RGBD-ID      |   2013   | Kinect V1                   |    50    |         205.8K | Egocentric |
-| IAS-Lab RGBD-ID   |   2013   | Kinect V1                   |    11    |          89.0K | Egocentric |
-| KGBD              |   2014   | Kinect V1                   |    164   |         188.7K | Egocentric |
+| PAVIS RGBD-ID     |   2012   | Kinect V1                   |    79    |              — |     Ego    |
+| BIWI RGBD-ID      |   2013   | Kinect V1                   |    50    |         205.8K |     Ego    |
+| IAS-Lab RGBD-ID   |   2013   | Kinect V1                   |    11    |          89.0K |     Ego    |
+| KGBD              |   2014   | Kinect V1                   |    164   |         188.7K |     Ego    |
 | KinectREID        |   2015   | Kinect V1                   |    71    |           4.8K |      7     |
-| UPCV1             |   2015   | Kinect V1                   |    30    |          13.1K | Egocentric |
-| UPCV2             |   2016   | Kinect V2                   |    30    |          26.3K | Egocentric |
-| Florence 3D Re-ID |   2016   | Kinect V2                   |    16    |          18.0K | Egocentric |
+| UPCV1             |   2015   | Kinect V1                   |    30    |          13.1K |     Ego    |
+| UPCV2             |   2016   | Kinect V2                   |    30    |          26.3K |     Ego    |
+| Florence 3D Re-ID |   2016   | Kinect V2                   |    16    |          18.0K |     Ego    |
 | KS20              |   2017   | Kinect V2                   |    20    |          36.0K |      5     |
-| Freestyle Walks   |   2017   | Kinect V2                   |    90    |              — | Egocentric |
+| Freestyle Walks   |   2017   | Kinect V2                   |    90    |              — |     Ego    |
 | CAISA-B-3D        |   2020   | _Estimated from RGB videos_ |    124   |         706.5K |     11     |
 | OUMVLP-Pose-2D    |   2020   | _Estimated from RGB videos_ |   10307  |        6667.0K |     14     |
 | PoseTrackReID-2D  |   2020   | _Estimated from RGB videos_ |   5350   |          53.6K |      —     |
