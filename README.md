@@ -3,11 +3,11 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 [![Visits Badge](https://badges.pufler.dev/visits/Kali-Hac/3D-skeleton-based-person-re-ID-review)](https://badges.pufler.dev/visits/Kali-Hac/3D-skeleton-based-person-re-ID-review)
 
-A professionally curated list of awesome resources (paper, code, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**, which is the first work to comprehensively and systematically summarize the recent advances of SRID research to the best of our knowledge.
+A professionally curated list of awesome resources (papers, codes, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**, which is the first work to comprehensively and systematically summarize the recent advances of SRID research to the best of our knowledge.
 
-We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+We will continuously update this list with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request.
 
-For more papers related to **Skeleton-Based Models (Action Recognition, Pose Estimation, etc.)** at the Top AI Conferences and Journals, please check [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
+For more papers and resources on **Skeleton-Based Models (Action Recognition, Pose Estimation, etc.)** from top-tier AI conferences and journals, kindly refer to [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## Survey Paper
 [A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions](./)
