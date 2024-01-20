@@ -34,7 +34,7 @@ We will continue to update this list with the newest resources. If you find any 
 <!-- /vscode-markdown-toc -->
 
 
-## Benchmark Datasets
+## **Benchmark Datasets**
 Overview of commonly-used benchmark datasets for **3D skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
 |**# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
@@ -54,7 +54,7 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 | PoseTrackReID-2D  |   2020   | _Estimated from RGB videos_ |   5350   |          53.6K |      —     |
 
 
-## Studies by Different Categories
+## **Studies by Different Categories**
 
 ![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/method_overview.jpg)
 
@@ -189,11 +189,8 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 ### Before 2014
 - [Re-identification with RGB-D Sensors](https://doi.org/10.1007/978-3-642-33863-2\_43) (_ECCV Workshop 2012_)
 
- - [**Hand-Crafted Methods**](#Hand-Crafted-Methods)
-	- [**Sequence Learning Methods**](#Sequence-Learning-Methods)
-	- [**Graph Learning Methods**](#Graph-Learning-Methods) 
 
-##  Leaderboards
+##  **Leaderboards**
 The results are mainly from the paper of (**CVPR 2023**) [[paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf)] (TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification). 
 | **Methods**                                 | **BIWI-S** |        |        |         | **BIWI-W** |        |        |         | **KS20** |        |        |         |
 |---------------------------------------------|:----------:|:------:|:------:|:-------:|:----------:|:------:|:------:|:-------:|:--------:|:------:|:------:|:-------:|
