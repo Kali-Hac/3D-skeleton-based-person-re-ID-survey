@@ -10,7 +10,7 @@ We will continue to update this list with the newest resources. If you find any 
 For more papers related to **Skeleton-Based Models (Action Recognition, Pose Estimation, etc.)** at the Top AI Conferences and Journals, please check [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## Survey Paper
-[A Survey on 3D Skeleton Based Person Re-Identification: \\Approaches, Designs, Challenges, and Future Directions](./)
+[A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions](./)
 
 By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh-CN&oi=ao) and [Chunyan Miao](https://scholar.google.com.sg/citations?user=fmXGRJgAAAAJ&hl=zh-CN).
 
@@ -45,7 +45,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 <!-- /vscode-markdown-toc -->
 
 
-## **Benchmark Datasets**
+### **Benchmark Datasets**
 Overview of commonly-used benchmark datasets for **3D skeleton-based person re-identification** and their statistics. The number of skeletons in the training set is estimated and reported. “Ego” denotes a single or egocentric view. We also include person re-ID datasets with 2D/3D skeletons estimated from RGB videos.
 
 |**# Datasets**    | **Year** | **Source**                  | **# ID** | **# Skeleton** | **# View** |
@@ -65,11 +65,11 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 | PoseTrackReID-2D  |   2020   | _Estimated from RGB videos_ |   5350   |          53.6K |      —     |
 
 
-## **Studies by Different Categories**
+### **Studies by Different Categories**
 
 ![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/method_overview.jpg)
 
-### Hand-Crafted Methods
+#### Hand-Crafted Methods
 - [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
 
 - [3D reconstruction of freely moving persons for re-identification with a depth sensor](https://doi.org/10.24963/ijcai.2020/125) (_ICRA 2014_)
