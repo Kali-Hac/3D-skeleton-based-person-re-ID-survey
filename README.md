@@ -56,6 +56,8 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
 
 ## Studies by Different Categories
 
+![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/method_overview.jpg)
+
 ### Hand-Crafted Methods
 - [One-Shot Person Re-identification with a Consumer Depth Camera](https://doi.org/10.1007/978-1-4471-6296-4\_8) (_Person Re-Identification 2014_)
 
