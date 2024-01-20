@@ -231,3 +231,6 @@ The results are mainly from the paper of (**CVPR 2023**) [[paper](http://openacc
 | SM-SGE (ACM MM 2021)                        |      13.6 |   34.0 |   60.5 |    71.6 |      13.3 |   38.9 |   64.1 |    75.8 |      4.4 |   38.2 |   54.2 |    60.7 |
 | SPC-MGR (Arxiv 2022)                        |      24.2 |   41.9 |   66.3 |    75.6 |      24.1 |   43.3 |   68.4 |    79.4 |      6.9 |   40.8 |   57.5 |    65.0 |
 | TranSG (CVPR 2023)                          |      32.8 |   49.2 |   68.5 |    76.2 |      39.4 |   59.1 |   77.0 |    87.0 |     20.2 |   59.0 |   73.1 |    78.2 |
+
+
+![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/taxonomy_overview.jpg)
