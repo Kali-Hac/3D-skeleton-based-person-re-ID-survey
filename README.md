@@ -7,6 +7,8 @@ A professionally curated list of awesome resources (paper, code, data, etc.) on 
 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
+For more papers related to **Skeleton-Based Models (Action Recognition, Pose Estimation, etc.)** at the Top AI Conferences and Journals, please check [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
+
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
