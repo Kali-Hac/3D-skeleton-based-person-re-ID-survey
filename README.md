@@ -9,6 +9,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 For more papers related to **Skeleton-Based Models (Action Recognition, Pose Estimation, etc.)** at the Top AI Conferences and Journals, please check [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
+## Survey Paper
+A Survey on 3D Skeleton Based Person Re-Identification: \\Approaches, Designs, Challenges, and Future Directions
+
+By Haocong Rao and Chunyan Miao.
+
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
@@ -234,5 +239,5 @@ The results are mainly from the paper of (**CVPR 2023**) [[paper](http://openacc
 | SPC-MGR (Arxiv 2022)                        |      24.2 |   41.9 |   66.3 |    75.6 |      24.1 |   43.3 |   68.4 |    79.4 |      6.9 |   40.8 |   57.5 |    65.0 |
 | TranSG (CVPR 2023)                          |      32.8 |   49.2 |   68.5 |    76.2 |      39.4 |   59.1 |   77.0 |    87.0 |     20.2 |   59.0 |   73.1 |    78.2 |
 
-
+## Taxonomy of 3D Skeleton Based Person Re-Identification (SRID)
 ![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/taxonomy_overview.jpg)
