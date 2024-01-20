@@ -187,17 +187,17 @@ Overview of commonly-used benchmark datasets for **3D skeleton-based person re-i
   
 
 ##  Leaderboards
-The results are mainly from the paper of (**IJCAI 2022**) [[paper](https://doi.org/10.48550/arXiv.2204.09826)] (SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification). 
+The results are mainly from the paper of (**CVPR 2023**) [[paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf)] (TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification). 
 | **Methods**                                 | **BIWI-S** |        |        |         | **BIWI-W** |        |        |         | **KS20** |        |        |         |
 |---------------------------------------------|:----------:|:------:|:------:|:-------:|:----------:|:------:|:------:|:-------:|:--------:|:------:|:------:|:-------:|
 |                                             |        mAP | Rank-1 | Rank-5 | Rank-10 |        mAP | Rank-1 | Rank-5 | Rank-10 |      mAP | Rank-1 | Rank-5 | Rank-10 |
 | **Hand-Crafted Methods**                    |            |        |        |         |            |        |        |         |          |        |        |         |
 | ${D_{\text{PG}}}$ (PR 2020)                 |        6.7 |   18.5 |   45.4 |    63.8 |        8.7 |    6.5 |   15.5 |    20.3 |     11.3 |   35.2 |   61.5 |    70.5 |
-| ${D_{13}}$  (Person Re-Identification 2014) |       13.1 |   28.3 |   53.1 |    65.9 |       17.2 |   14.2 |   20.6 |    23.7 |     18.9 |   39.4 |   71.7 |    81.7 |
+| ${D_{13}}$ (Person Re-Identification 2014) |       13.1 |   28.3 |   53.1 |    65.9 |       17.2 |   14.2 |   20.6 |    23.7 |     18.9 |   39.4 |   71.7 |    81.7 |
 | ${D_{16}}$ (Computers\&Graphics 2019)       |       16.7 |   32.6 |   55.7 |    68.3 |       18.8 |   17.0 |   25.3 |    29.6 |     24.0 |   51.7 |   77.1 |    86.9 |
 | **Sequence Learning Methods**               |            |        |        |         |            |        |        |         |          |        |        |         |
 | PoseGait (PR 2020)                          |        9.9 |   14.0 |   40.7 |    56.7 |       11.1 |    8.8 |   23.0 |    31.2 |     23.5 |   49.4 |   80.9 |    90.2 |
-| AGE(IJCAI 2020)                             |        8.9 |   25.1 |   43.1 |    61.6 |       12.6 |   11.7 |   21.4 |    27.3 |      8.9 |   43.2 |   70.1 |    80.0 |
+| AGE (IJCAI 2020)                             |        8.9 |   25.1 |   43.1 |    61.6 |       12.6 |   11.7 |   21.4 |    27.3 |      8.9 |   43.2 |   70.1 |    80.0 |
 | SGELA (TPAMI 2020)                          |       15.1 |   25.8 |   51.8 |    64.4 |       19.0 |   11.7 |   14.0 |    14.7 |     21.2 |   45.0 |   65.0 |    75.1 |
 | SimMC (IJCAI 2022)                          |       12.3 |   41.7 |   66.6 |    76.8 |       19.9 |   24.5 |   36.7 |    44.5 |     22.3 |   66.4 |   80.7 |    87.0 |
 | Hi-MPC (IJCV 2023)                          |       17.4 |   47.5 |   70.3 |    78.6 |       22.6 |   27.3 |   40.3 |    48.8 |     22.0 |   69.6 |   83.5 |    87.1 |
@@ -206,3 +206,24 @@ The results are mainly from the paper of (**IJCAI 2022**) [[paper](https://doi.o
 | SM-SGE (ACM MM 2021)                        |       10.1 |   31.3 |   56.3 |    69.1 |       15.2 |   13.2 |   25.8 |    33.5 |      9.5 |   45.9 |   71.9 |    81.2 |
 | SPC-MGR (Arxiv 2022)                        |       16.0 |   34.1 |   57.3 |    69.8 |       19.4 |   18.9 |   31.5 |    40.5 |     21.7 |   59.0 |   79.0 |    86.2 |
 | TranSG (CVPR 2023)                          |       30.1 |   68.7 |   86.5 |    91.8 |       26.9 |   32.7 |   44.9 |    52.2 |     46.2 |   73.6 |   86.3 |    90.2 |
+
+
+
+| **Methods**                                 | **IAS-A** |        |        |         | **IAS-B** |        |        |         | **KGBD** |        |        |         |
+|---------------------------------------------|:---------:|:------:|:------:|:-------:|:---------:|:------:|:------:|:-------:|:--------:|:------:|:------:|:-------:|
+|                                             |       mAP | Rank-1 | Rank-5 | Rank-10 |       mAP | Rank-1 | Rank-5 | Rank-10 |      mAP | Rank-1 | Rank-5 | Rank-10 |
+| **Hand-Crafted Methods**                    |           |        |        |         |           |        |        |         |          |        |        |         |
+| ${D_{\text{PG}}}$ (PR 2020)                 |      11.0 |   16.4 |   39.5 |    53.4 |      10.6 |   16.0 |   41.2 |    57.3 |      2.1 |   30.0 |   49.1 |    58.1 |
+| ${D_{13}}$ (Person Re-Identification 2014) |      24.5 |   40.0 |   58.7 |    67.6 |      23.7 |   43.7 |   68.6 |    76.7 |      1.9 |   17.0 |   34.4 |    44.2 |
+| ${D_{16}}$ (Computers\&Graphics 2019)       |      25.2 |   42.7 |   62.9 |    70.7 |      24.5 |   44.5 |   69.1 |    80.2 |      4.0 |   31.2 |   50.9 |    59.8 |
+| **Sequence Learning Methods**               |           |        |        |         |           |        |        |         |          |        |        |         |
+| PoseGait (PR 2020)                          |      17.5 |   28.4 |   55.7 |    69.2 |      20.8 |   28.9 |   51.6 |    62.9 |     13.9 |   50.6 |   67.0 |    72.6 |
+| AGE(IJCAI 2020)                             |      13.4 |   31.1 |   54.8 |    67.4 |      12.8 |   31.1 |   52.3 |    64.2 |      0.9 |    2.9 |    5.6 |     7.5 |
+| SGELA (TPAMI 2020)                          |      13.2 |   16.7 |   30.2 |    44.0 |      14.0 |   22.2 |   40.8 |    50.2 |      4.5 |   38.1 |   53.5 |    60.0 |
+| SimMC (IJCAI 2022)                          |      18.7 |   44.8 |   65.3 |    72.9 |      22.9 |   46.3 |   68.1 |    77.0 |     11.7 |   54.9 |   66.2 |    70.6 |
+| Hi-MPC (IJCV 2023)                          |      23.2 |   45.6 |   67.3 |    75.4 |      25.3 |   48.2 |   70.2 |    77.8 |     10.2 |   56.9 |   70.2 |    75.1 |
+| **Graph Learning Methods**                  |           |        |        |         |           |        |        |         |          |        |        |         |
+| MG-SCR (IJCAI 2021)                         |      14.1 |   36.4 |   59.6 |    69.5 |      12.9 |   32.4 |   56.5 |    69.4 |      6.9 |   44.0 |   58.7 |    64.6 |
+| SM-SGE (ACM MM 2021)                        |      13.6 |   34.0 |   60.5 |    71.6 |      13.3 |   38.9 |   64.1 |    75.8 |      4.4 |   38.2 |   54.2 |    60.7 |
+| SPC-MGR (Arxiv 2022)                        |      24.2 |   41.9 |   66.3 |    75.6 |      24.1 |   43.3 |   68.4 |    79.4 |      6.9 |   40.8 |   57.5 |    65.0 |
+| TranSG (CVPR 2023)                          |      32.8 |   49.2 |   68.5 |    76.2 |      39.4 |   59.1 |   77.0 |    87.0 |     20.2 |   59.0 |   73.1 |    78.2 |
