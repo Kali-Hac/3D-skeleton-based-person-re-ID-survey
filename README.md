@@ -17,7 +17,7 @@ By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh
 ## Taxonomy of 3D Skeleton Based Person Re-Identification (SRID)
 ![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/taxonomy_overview.jpg)
 
-## Resources
+## Archives and Resources
 <!-- vscode-markdown-toc -->
 - [**Benchmark Datasets**](#benchmark-datasets)
 - [**Studies by Different Categories**](#Studies-by-Different-Categories)
