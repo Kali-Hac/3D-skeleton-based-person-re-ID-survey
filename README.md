@@ -3,7 +3,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 [![Visits Badge](https://badges.pufler.dev/visits/Kali-Hac/3D-skeleton-based-person-re-ID-review)](https://badges.pufler.dev/visits/Kali-Hac/3D-skeleton-based-person-re-ID-review)
 
-A professionally curated list of awesome resources (papers, codes, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**, which is the first work to comprehensively and systematically summarize the recent advances of SRID research to the best of our knowledge.
+A professionally curated list of resources (papers, codes, data, etc.) on **3D Skeleton Based Person Re-ID (SRID)**, which is the first work to comprehensively and systematically summarize the recent advances of SRID research to the best of our knowledge.
 
 We will continuously update this list with the latest resources. Should you find any missed resources (papers/codes) or errors, please feel free to open an issue or contribute a pull request.
 
