@@ -14,7 +14,7 @@ For more papers and resources on **Skeleton-Based Models (Action Recognition, Po
 
 By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh-CN&oi=ao) and [Chunyan Miao](https://scholar.google.com.sg/citations?user=fmXGRJgAAAAJ&hl=zh-CN).
 
-## Taxonomy of 3D Skeleton Based Person Re-Identification (SRID)
+## Taxonomy of SRID)
 ![image](https://github.com/Kali-Hac/3D-skeleton-based-person-re-ID-review/blob/main/overview/taxonomy_overview.jpg)
 
 ## Archives and Resources
