@@ -10,7 +10,7 @@ We will continuously update this list with the latest resources. Should you find
 For more papers and resources on **Skeleton-Based Models (Action Recognition, Pose Estimation, etc.)** from top-tier AI conferences and journals, kindly refer to [This Repo](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models).
 
 ## Survey Paper
-[A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions](./)
+[A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions](https://arxiv.org/pdf/2401.15296.pdf)
 
 By [Haocong Rao](https://scholar.google.com.sg/citations?user=JkT65uQAAAAJ&hl=zh-CN&oi=ao) and [Chunyan Miao](https://scholar.google.com.sg/citations?user=fmXGRJgAAAAJ&hl=zh-CN).
 
